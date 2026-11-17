@@ -2,7 +2,7 @@
 
 **Course:** Generative AI and AI Platform Engineering (25CS2207E)  
 **Institution:** Koneru Lakshmaiah Education Foundation (KLH) — Dept. of CSIT (II B.Tech, Academic Year 2026–2027)  
-**Team ID:** T04  
+**Team ID:** T03
 **Supervisor:** Lakshmi Prasanna
 
 ---
@@ -30,8 +30,8 @@ Modern enterprise helpdesks handle diverse user queries varying widely in lingui
 
 ---
 
-## Setup and Execution Instructions
-1. Clone the repository: `git clone https://github.com/Bhargava-007/KLH-CSIT-2026-27-T04-MultilingualModelRouter.git`
+## Setup and Execution Instructionsgit remote set-url origin git@github-college:Bhargava-007/KLH-CSIT-2026-27-T03-S10-MultilingualModelRouter.git
+1. Clone the repository: `git clone https://github.com/Bhargava-007/KLH-CSIT-2026-27-T03-S10-MultilingualModelRouter.git`
 2. Enter the folder: `cd KLH-CSIT-2026-27-T04-MultilingualModelRouter`
 3. Create and activate a virtual environment: `python -m venv .venv` and `.\.venv\Scripts\Activate.ps1`
 4. Install dependencies: `python -m pip install -r requirements.txt`
@@ -42,5 +42,5 @@ Modern enterprise helpdesks handle diverse user queries varying widely in lingui
 
 ## Current Project Phase Status
 * **Current Phase:** Phase 0 — Team Formation, Topic Selection (`P08`), & Repository Initialization
-* **Completed:** Team formed (`T04`), project topic (`P08`) selected, and standardized repository structure initialized (`/src`, `/docs`, `/data`, `/results`, `/reports`).
+* **Completed:** Team formed (`T03`), project topic (`P08`) selected, and standardized repository structure initialized (`/src`, `/docs`, `/data`, `/results`, `/reports`).
 * **Next Milestone (`review-1`):** Implement provider-agnostic LLM client (cloud + local) and baseline multilingual query dataset.
